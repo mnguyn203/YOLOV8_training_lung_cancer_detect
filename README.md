@@ -1,6 +1,7 @@
 " YOLOV8_training_lung_cancer_detect" 
 
 I Giới thiệu
+
 Dự án này xây dựng và huấn luyện mô hình **YOLOv8** cho bài toán **phát hiện khối u phổi (lung cancer detection)** trên ảnh y tế (CT/X-ray).  
 Mục tiêu là áp dụng **Object Detection** để khoanh vùng các vùng nghi ngờ ung thư phổi, hỗ trợ sàng lọc và chẩn đoán ban đầu.
 
