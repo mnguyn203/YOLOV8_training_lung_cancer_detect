@@ -34,12 +34,18 @@ Các lớp (Classes)
 
 V. Cấu hình huấn luyện
 
-    -data="data.yaml",
-    -epochs=30
-    -imgsz=640
-    -batch=16
-    -device=0
-    -workers=2
+    from ultralytics import YOLO
+
+    model = YOLO("yolov8n.pt")
+
+    model.train(
+        data="data.yaml",
+        epochs=30,
+        imgsz=640,
+        batch=16,
+        device=0,
+        workers=2
+      )
 
 - Framework: Ultralytics YOLOv8 (PyTorch)
 
