@@ -124,8 +124,9 @@ model.train(
 - Hoạt động tốt trên nhiều kích thước khối u khác nhau
 - Dự đoán ổn định trên ảnh CT có độ nhiễu vừa phải
 
+
 <p align="center">
-  <img src="assets/sample_result.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/mnguyn203/YOLOV8_training_lung_cancer_detect/main/download.png" width="600"/>
 </p>
 
 > *Hình minh họa: Kết quả phát hiện khối u phổi bằng YOLOv8*
