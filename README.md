@@ -126,7 +126,7 @@ model.train(
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mnguyn203/YOLOV8_training_lung_cancer_detect/main/download.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/mnguyn203/YOLOV8_training_lung_cancer_detect/main/anh_minh_hoa.png" width="600"/>
 </p>
 
 > *Hình minh họa: Kết quả phát hiện khối u phổi bằng YOLOv8*
